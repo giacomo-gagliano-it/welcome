@@ -38,3 +38,10 @@ non ha funzionato
 ora pusho questo e riprovo con zaion
 
 prima pero provo a cambiare lo user globale di git
+
+> ha funzionato, quindi ora posso provare con zaion
+
+ho provato a cancellare il remote e mi dava errore
+ho aggiunto `user1` al ssh agent e ha funzionato
+
+ha funzionato correttamente ora vediamo se funziona ancora qui
