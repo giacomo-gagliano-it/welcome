@@ -45,3 +45,7 @@ ho provato a cancellare il remote e mi dava errore
 ho aggiunto `user1` al ssh agent e ha funzionato
 
 ha funzionato correttamente ora vediamo se funziona ancora qui
+
+> ho provato e non ha funzionato
+
+quindi ora provo a fare come prima, cancello ssh agent e metto la chiave di `user2`
