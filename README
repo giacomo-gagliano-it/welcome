@@ -16,3 +16,13 @@ ok, ho aggiunto la chiave all'agent ed ora funziona
 
 ho provato a fare un cambiamento su zion, è riuscito a fare il commit, ma è con user giacomo-gagliano-it
 ho configurato come git global user `user1`
+ho fatto un cambiamento a zaion monorepo come `user1`
+ho committato come `user1`
+ho fatto push e mi ha dato errore non puoi pushare come `user2` (sta cercando di pushare come `user2`)
+
+> a questo punto la cosa sembra che sia dovuta alla chiave aggiunta al ssh agent
+> provo 
+> - [x] aggiungere la chiave giusta
+> - [ ] se non va tolgo la chiave `user2` e metto la chiave `user1`
+
+ha funzionato semplicemente aggiungendo la chiave all ssh agent, almeno sembrerebbe.
