@@ -26,3 +26,7 @@ ho fatto push e mi ha dato errore non puoi pushare come `user2` (sta cercando di
 > - [ ] se non va tolgo la chiave `user2` e metto la chiave `user1`
 
 ha funzionato semplicemente aggiungendo la chiave all ssh agent, almeno sembrerebbe.
+e invece ho provato a pushare i cambiamenti a questo file e me lo ha impedito, eppure la chiave è presente.
+
+> provo a
+> - reimpostare come global gagliano-it
