@@ -36,3 +36,5 @@ non ha funzionato
 > pero ho provato a fare `ssh-add -D` cancellando tutte le chiavi nellagent, e poi ho fatto `ssh-add user2`. e ha funzionato
 
 ora pusho questo e riprovo con zaion
+
+prima pero provo a cambiare lo user globale di git
