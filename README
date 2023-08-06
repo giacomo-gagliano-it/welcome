@@ -30,3 +30,9 @@ e invece ho provato a pushare i cambiamenti a questo file e me lo ha impedito, e
 
 > provo a
 > - reimpostare come global gagliano-it
+
+non ha funzionato
+
+> pero ho provato a fare `ssh-add -D` cancellando tutte le chiavi nellagent, e poi ho fatto `ssh-add user2`. e ha funzionato
+
+ora pusho questo e riprovo con zaion
