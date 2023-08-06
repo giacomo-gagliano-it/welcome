@@ -1,3 +1,18 @@
 My name is Giacomo Gagliano, I am a music producer and software developer since couple of years!
 
 vorrei pushare un cambiamento
+ho chiusto tutte le pagine vscode
+sono uscito da tutti gli account
+sono entrato solo in giacomo-gagliano-it
+ho configurato come git global user `user2`
+ho configurato come git local user `user2`
+ho aggiunto id_giacomo-gagliano-it in etc/ssh/ssh_config.
+ho aggiunto id_giacomo-gagliano-it in ~/.ssh/config
+ho tolto id_giacomo-gagliano-it in ~/.ssh/config
+ho fatto `ssh-add -l` ed era vuoto
+ho aggiunto la chiave con `ssh-add id_giacomo-gagliano-it`
+ho provato a fare push e ha funzionato
+ok, ho aggiunto la chiave all'agent ed ora funziona
+
+ho provato a fare un cambiamento su zion, è riuscito a fare il commit, ma è con user giacomo-gagliano-it
+ho configurato come git global user `user1`
